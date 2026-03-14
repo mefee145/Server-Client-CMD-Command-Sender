@@ -1,4 +1,3 @@
-```markdown
 # Simple Python Socket Shell
 
 This project is a basic Remote Shell implementation using Python sockets. It allows a Server to send system commands to a Client, which executes them and returns the output.
@@ -19,8 +18,6 @@ This project is a basic Remote Shell implementation using Python sockets. It all
    Run the `server.py` script on your machine:
    ```bash
    python server.py
-
-```
 
 The server will start listening for connections on port 5555.
 
