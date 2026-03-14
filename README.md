@@ -1,7 +1,3 @@
-Harika bir fikir! Projenin profesyonel görünmesi için İngilizce bir `README.md` dosyası hazırladım. Bunu projenin olduğu klasörde yeni bir dosya olarak oluşturup, içine yapıştırabilirsin.
-
-### README.md Dosyası İçeriği
-
 ```markdown
 # Simple Python Socket Shell
 
